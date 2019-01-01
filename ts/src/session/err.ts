@@ -1,0 +1,1 @@
+export const errNoSession = new Error('no session')
